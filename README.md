@@ -14,11 +14,6 @@ This repository contains an in-depth analysis of a real-world phishing email, de
 - **Actual Address**:  
 mssggeauthencti-cbspprt-325937197367@medisept.com.au
 
-yaml
-
-Copy
-
-Edit
 - ❗ **Red Flag**: The domain `medisept.com.au` is completely unrelated to Coinbase, indicating spoofing.
 
 ---
@@ -46,11 +41,6 @@ Edit
 - **Subject Line**:  
 [Alert] Confirm your info is required [Case ID 153465]
 
-yaml
-
-Copy
-
-Edit
 
 > ❗ Language designed to create urgency and prompt action from the recipient without verification.
 
@@ -69,12 +59,6 @@ Edit
 
 - **Subject with Unicode Obfuscation**:
 [A﻿l﻿e﻿r﻿t] Co﻿nf﻿i﻿rm yo﻿ur i﻿nfo is r﻿eq﻿uired﻿ [C﻿a﻿se ID 153465]
-
-yaml
-
-Copy
-
-Edit
 
 > ❗ Unicode or garbled text often used to bypass spam filters.
 
